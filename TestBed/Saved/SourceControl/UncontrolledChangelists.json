@@ -1,0 +1,34 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"H:/Documents/Unreal Projects/TestBed/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"H:/Documents/Unreal Projects/TestBed/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset",
+				"H:/Documents/Unreal Projects/TestBed/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"H:/Documents/Unreal Projects/TestBed/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"H:/Documents/Unreal Projects/TestBed/Content/Blueprints/DoorBlueprint/BP_Door.uasset",
+				"H:/Documents/Unreal Projects/TestBed/Content/StarterContent/Props/SM_Door.uasset",
+				"H:/Documents/Unreal Projects/TestBed/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/3Z/WAL5D2H4RCNCAUTJBB8W1Q.uasset",
+				"H:/Documents/Unreal Projects/TestBed/Content/ThirdPerson/Blueprints/BP_Pillbox.uasset",
+				"H:/Documents/Unreal Projects/TestBed/Content/Blueprints/HammerBlueprint/Ham_Actor.uasset",
+				"H:/Documents/Unreal Projects/TestBed/Content/Blueprints/MovingPlatformBlueprint/HorizontalPlat.uasset",
+				"H:/Documents/Unreal Projects/TestBed/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/FV/K7MXTV992TK3LI6H7EOHL7.uasset",
+				"H:/Documents/Unreal Projects/TestBed/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/M7/WVP8LKQWKKKOJ023LXWV6X.uasset",
+				"H:/Documents/Unreal Projects/TestBed/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/B1/ZF3A2EZGQCTBKIUXKE7U9T.uasset",
+				"H:/Documents/Unreal Projects/TestBed/Content/ProjectFiles/MI_AntennaDisc.uasset",
+				"H:/Documents/Unreal Projects/TestBed/Content/ProjectFiles/SM_Ball.uasset",
+				"H:/Documents/Unreal Projects/TestBed/Content/ProjectFiles/mask.uasset",
+				"H:/Documents/Unreal Projects/TestBed/Content/ProjectFiles/Material_002.uasset",
+				"H:/Documents/Unreal Projects/TestBed/Content/ProjectFiles/SM_Hat.uasset",
+				"H:/Documents/Unreal Projects/TestBed/Content/ProjectFiles/Material_001.uasset",
+				"H:/Documents/Unreal Projects/TestBed/Content/ProjectFiles/SM_HitActor.uasset",
+				"H:/Documents/Unreal Projects/TestBed/Content/ProjectFiles/Material.uasset",
+				"H:/Documents/Unreal Projects/TestBed/Content/ProjectFiles/Net.uasset",
+				"H:/Documents/Unreal Projects/TestBed/Content/ProjectFiles/SM_SoccerGoal.uasset"
+			]
+		}
+	]
+}
