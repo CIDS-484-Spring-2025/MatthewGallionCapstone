@@ -8,3 +8,9 @@ The progress I've made so far is mainly creating a design document, which is use
 ## Milestones
 ### Milestone 1
 (https://drive.google.com/file/d/1DRkZytHuh8bDVOjWrwJ_dnB-PjPTqZ3_/view?usp=sharing)
+
+### Milestone 2
+(https://drive.google.com/file/d/1y9-F0HiKmOVioCfVoaYS_abP3bCDjYdJ/view?usp=sharing)
+
+### Milestone 3
+(https://drive.google.com/file/d/1AgNHnM0tvZt9H0K8maUTWqK6oqRGA0Zc/view?usp=sharing)
